@@ -1,4 +1,4 @@
-package it.vscalcione.springboot.demoapplication;
+package it.vscalcione.springboot.loginsecurity;
 
 import org.springframework.boot.builder.SpringApplicationBuilder;
 import org.springframework.boot.web.servlet.support.SpringBootServletInitializer;
